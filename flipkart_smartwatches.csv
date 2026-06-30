@@ -1,0 +1,501 @@
+product_name,brand,current_price,original_price,discount_percentage,rating,number_of_ratings,key_features,price_category
+Apple Smartwatch 1 Model XYZ,Apple,4576,7674,40.4,3.8,6860,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+Apple Smartwatch 2 Model XYZ,Apple,10371,13603,23.8,4.3,44397,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Apple Smartwatch 3 Model XYZ,Apple,11144,12593,11.5,4.5,45495,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+boAt Smartwatch 4 Model XYZ,boAt,17689,17890,1.1,4.1,42148,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 5 Model XYZ,Noise,18453,21414,13.8,4.7,44946,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 6 Model XYZ,boAt,1406,6032,76.7,4.4,16656,"GPS, Heart Rate Monitor, Multiple Watch Faces",Budget
+boAt Smartwatch 7 Model XYZ,boAt,6750,9736,30.7,3.6,32818,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Samsung Smartwatch 8 Model XYZ,Samsung,16021,16460,2.7,3.8,31635,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 9 Model XYZ,Fire-Boltt,9646,12055,20.0,3.8,19769,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Fire-Boltt Smartwatch 10 Model XYZ,Fire-Boltt,12000,15396,22.1,3.7,477,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 11 Model XYZ,Fire-Boltt,14836,19173,22.6,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 12 Model XYZ,Amazfit,17587,20307,13.4,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 13 Model XYZ,Apple,14205,14716,3.5,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+boAt Smartwatch 14 Model XYZ,boAt,1418,2013,29.6,4.7,5073,"GPS, Heart Rate Monitor, Multiple Watch Faces",Budget
+boAt Smartwatch 15 Model XYZ,boAt,7092,9399,24.5,4.2,29731,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 16 Model XYZ,Samsung,8636,10464,17.5,4.0,13928,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Realme Smartwatch 17 Model XYZ,Realme,17544,19388,9.5,3.8,33142,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 18 Model XYZ,Fire-Boltt,7483,10982,31.9,4.7,34451,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Noise Smartwatch 19 Model XYZ,Noise,11985,14997,20.1,3.6,48322,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 20 Model XYZ,Amazfit,10077,13036,22.7,4.2,11209,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+OnePlus Smartwatch 21 Model XYZ,OnePlus,11470,14812,22.6,4.3,8588,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 22 Model XYZ,Amazfit,5887,8466,30.5,3.9,49246,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Noise Smartwatch 23 Model XYZ,Noise,8026,8061,0.4,4.1,40658,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 24 Model XYZ,Realme,16718,20980,20.3,4.7,6783,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 25 Model XYZ,Apple,8898,12346,27.9,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Amazfit Smartwatch 26 Model XYZ,Amazfit,19812,22948,13.7,3.6,12301,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 27 Model XYZ,boAt,17006,20944,18.8,4.2,49057,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 28 Model XYZ,Samsung,17951,21624,17.0,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 29 Model XYZ,OnePlus,1255,5563,77.4,4.7,46813,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Budget
+boAt Smartwatch 30 Model XYZ,boAt,18304,20761,11.8,4.4,28475,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 31 Model XYZ,Apple,1026,4027,74.5,3.6,24211,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Budget
+Apple Smartwatch 32 Model XYZ,Apple,10515,14853,29.2,4.8,13728,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 33 Model XYZ,Samsung,8595,12099,29.0,4.2,36111,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 34 Model XYZ,Samsung,3964,5490,27.8,3.9,21968,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+boAt Smartwatch 35 Model XYZ,boAt,11991,16488,27.3,4.3,37568,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Realme Smartwatch 36 Model XYZ,Realme,16177,20589,21.4,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 37 Model XYZ,Samsung,3092,7920,61.0,4.2,28585,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+OnePlus Smartwatch 38 Model XYZ,OnePlus,19903,23690,16.0,4.6,3080,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 39 Model XYZ,Fire-Boltt,13267,13399,1.0,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 40 Model XYZ,Samsung,6249,8731,28.4,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Amazfit Smartwatch 41 Model XYZ,Amazfit,6470,6871,5.8,3.6,18728,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Apple Smartwatch 42 Model XYZ,Apple,2260,6898,67.2,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+Apple Smartwatch 43 Model XYZ,Apple,6618,10536,37.2,4.3,42598,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 44 Model XYZ,Noise,12356,12773,3.3,3.8,44564,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 45 Model XYZ,Amazfit,13526,13850,2.3,4.0,25917,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 46 Model XYZ,Realme,9139,12845,28.9,3.5,24165,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Noise Smartwatch 47 Model XYZ,Noise,11163,15301,27.0,3.5,49283,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 48 Model XYZ,Amazfit,9427,13598,30.7,3.7,11768,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 49 Model XYZ,Apple,16638,17616,5.6,3.7,5167,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 50 Model XYZ,Amazfit,13480,16821,19.9,4.4,36980,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 51 Model XYZ,Samsung,8832,12058,26.8,4.7,38374,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+OnePlus Smartwatch 52 Model XYZ,OnePlus,2608,4930,47.1,3.8,47327,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Samsung Smartwatch 53 Model XYZ,Samsung,6557,6631,1.1,4.1,43880,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Apple Smartwatch 54 Model XYZ,Apple,9752,10706,8.9,4.6,24452,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Apple Smartwatch 55 Model XYZ,Apple,12938,17582,26.4,4.4,7181,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Apple Smartwatch 56 Model XYZ,Apple,14734,18158,18.9,4.4,34973,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 57 Model XYZ,boAt,19998,22872,12.6,3.8,25187,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 58 Model XYZ,boAt,12159,13010,6.5,3.9,11759,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 59 Model XYZ,Samsung,7824,9710,19.4,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Realme Smartwatch 60 Model XYZ,Realme,2028,6336,68.0,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Apple Smartwatch 61 Model XYZ,Apple,17810,17876,0.4,4.4,17109,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 62 Model XYZ,Samsung,19554,24468,20.1,3.7,6202,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 63 Model XYZ,Noise,12078,12112,0.3,3.6,18070,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 64 Model XYZ,Realme,12233,12747,4.0,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 65 Model XYZ,Noise,16017,17201,6.9,3.9,24493,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Realme Smartwatch 66 Model XYZ,Realme,2539,2888,12.1,4.3,33981,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+boAt Smartwatch 67 Model XYZ,boAt,10112,14489,30.2,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 68 Model XYZ,Amazfit,12856,14013,8.3,3.7,15526,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 69 Model XYZ,Amazfit,14546,18820,22.7,3.8,12423,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Realme Smartwatch 70 Model XYZ,Realme,15328,16536,7.3,4.8,46946,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 71 Model XYZ,Amazfit,9197,10983,16.3,4.0,36943,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Fire-Boltt Smartwatch 72 Model XYZ,Fire-Boltt,6646,9298,28.5,4.6,44152,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Samsung Smartwatch 73 Model XYZ,Samsung,7418,8587,13.6,3.6,31914,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Fire-Boltt Smartwatch 74 Model XYZ,Fire-Boltt,2654,6982,62.0,4.3,36594,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Realme Smartwatch 75 Model XYZ,Realme,11160,12846,13.1,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 76 Model XYZ,boAt,7739,9861,21.5,4.5,29482,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 77 Model XYZ,Realme,4407,4691,6.1,4.3,40206,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Fire-Boltt Smartwatch 78 Model XYZ,Fire-Boltt,14998,18680,19.7,4.4,11037,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 79 Model XYZ,Amazfit,1383,4527,69.4,3.5,43194,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Budget
+Apple Smartwatch 80 Model XYZ,Apple,1796,4626,61.2,3.8,6296,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+boAt Smartwatch 81 Model XYZ,boAt,12113,16391,26.1,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 82 Model XYZ,Fire-Boltt,17014,19456,12.6,3.9,48231,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 83 Model XYZ,Fire-Boltt,6325,10723,41.0,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 84 Model XYZ,Samsung,13705,18391,25.5,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 85 Model XYZ,Samsung,11762,14305,17.8,4.7,10555,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Apple Smartwatch 86 Model XYZ,Apple,5575,5805,4.0,3.9,38013,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Samsung Smartwatch 87 Model XYZ,Samsung,3789,4027,5.9,4.7,41440,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+Fire-Boltt Smartwatch 88 Model XYZ,Fire-Boltt,19778,24608,19.6,4.7,25678,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Apple Smartwatch 89 Model XYZ,Apple,14358,17298,17.0,4.7,28933,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 90 Model XYZ,Amazfit,18689,21240,12.0,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 91 Model XYZ,Noise,2486,5876,57.7,4.7,22546,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+boAt Smartwatch 92 Model XYZ,boAt,1475,3412,56.8,4.6,14296,"Health Monitoring, Sports Modes, IP68 Waterproof",Budget
+Fire-Boltt Smartwatch 93 Model XYZ,Fire-Boltt,12143,15238,20.3,3.5,49096,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Fire-Boltt Smartwatch 94 Model XYZ,Fire-Boltt,5088,7298,30.3,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+boAt Smartwatch 95 Model XYZ,boAt,7121,9571,25.6,3.9,43848,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Apple Smartwatch 96 Model XYZ,Apple,5844,10398,43.8,3.6,29634,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Noise Smartwatch 97 Model XYZ,Noise,1711,6580,74.0,3.7,41471,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Fire-Boltt Smartwatch 98 Model XYZ,Fire-Boltt,9886,10087,2.0,4.0,40046,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Samsung Smartwatch 99 Model XYZ,Samsung,6007,8282,27.5,4.4,21780,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+boAt Smartwatch 100 Model XYZ,boAt,18896,19253,1.9,4.4,39859,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Noise Smartwatch 101 Model XYZ,Noise,19018,19983,4.8,4.5,35291,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 102 Model XYZ,Realme,5313,9198,42.2,3.6,13989,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Noise Smartwatch 103 Model XYZ,Noise,13088,15146,13.6,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 104 Model XYZ,Realme,18679,23523,20.6,3.6,44219,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 105 Model XYZ,Amazfit,18472,19730,6.4,4.3,33559,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 106 Model XYZ,Samsung,7063,8617,18.0,4.3,34299,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Amazfit Smartwatch 107 Model XYZ,Amazfit,14965,17414,14.1,4.5,33050,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 108 Model XYZ,Amazfit,12283,15647,21.5,3.8,24041,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 109 Model XYZ,Samsung,12134,13664,11.2,4.1,30120,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Realme Smartwatch 110 Model XYZ,Realme,2848,7221,60.6,4.8,36963,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Fire-Boltt Smartwatch 111 Model XYZ,Fire-Boltt,18524,19882,6.8,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 112 Model XYZ,Fire-Boltt,16757,18799,10.9,4.3,1103,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 113 Model XYZ,Realme,4143,5840,29.1,3.6,8167,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+OnePlus Smartwatch 114 Model XYZ,OnePlus,18428,19977,7.8,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Fire-Boltt Smartwatch 115 Model XYZ,Fire-Boltt,1002,2276,56.0,4.3,3621,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Budget
+Apple Smartwatch 116 Model XYZ,Apple,18999,22995,17.4,4.8,36676,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 117 Model XYZ,Realme,14369,15762,8.8,3.7,33336,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 118 Model XYZ,Samsung,17109,21044,18.7,4.0,40760,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 119 Model XYZ,Noise,12652,17264,26.7,4.6,10684,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 120 Model XYZ,Apple,5633,9688,41.9,4.4,27852,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 121 Model XYZ,Apple,2822,5494,48.6,3.8,20931,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+boAt Smartwatch 122 Model XYZ,boAt,9204,10717,14.1,3.7,12906,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 123 Model XYZ,Noise,12141,13214,8.1,4.0,24165,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 124 Model XYZ,Fire-Boltt,19102,21955,13.0,4.1,9977,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 125 Model XYZ,Samsung,10934,13684,20.1,3.6,6357,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 126 Model XYZ,Amazfit,9733,11677,16.6,3.7,43853,"Smart Notifications, Music Control, Fitness Tracking",Premium
+boAt Smartwatch 127 Model XYZ,boAt,1797,4851,63.0,3.5,24205,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+Realme Smartwatch 128 Model XYZ,Realme,6250,10718,41.7,3.7,17005,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Amazfit Smartwatch 129 Model XYZ,Amazfit,7345,12281,40.2,4.2,49679,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Samsung Smartwatch 130 Model XYZ,Samsung,12619,17032,25.9,4.7,14823,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Apple Smartwatch 131 Model XYZ,Apple,14421,18266,21.1,3.5,45535,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 132 Model XYZ,Noise,4212,6035,30.2,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+boAt Smartwatch 133 Model XYZ,boAt,10637,11899,10.6,3.7,18400,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 134 Model XYZ,Noise,18008,19483,7.6,4.4,19910,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 135 Model XYZ,Samsung,19350,22319,13.3,3.6,10990,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 136 Model XYZ,Fire-Boltt,8791,10233,14.1,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Fire-Boltt Smartwatch 137 Model XYZ,Fire-Boltt,10982,14396,23.7,4.7,9661,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 138 Model XYZ,Realme,5048,6100,17.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Amazfit Smartwatch 139 Model XYZ,Amazfit,6766,7265,6.9,3.7,13160,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+boAt Smartwatch 140 Model XYZ,boAt,15805,19253,17.9,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Noise Smartwatch 141 Model XYZ,Noise,1827,6139,70.2,3.6,43368,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Amazfit Smartwatch 142 Model XYZ,Amazfit,9749,13902,29.9,4.3,47909,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Noise Smartwatch 143 Model XYZ,Noise,15129,19072,20.7,3.7,40201,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Noise Smartwatch 144 Model XYZ,Noise,12850,13541,5.1,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 145 Model XYZ,Amazfit,2921,5623,48.1,4.1,23842,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Amazfit Smartwatch 146 Model XYZ,Amazfit,7732,12054,35.9,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Fire-Boltt Smartwatch 147 Model XYZ,Fire-Boltt,7607,9196,17.3,4.0,46371,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 148 Model XYZ,Realme,3380,3451,2.1,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+Apple Smartwatch 149 Model XYZ,Apple,4684,5627,16.8,4.8,29707,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+Samsung Smartwatch 150 Model XYZ,Samsung,12159,16200,24.9,3.8,7939,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 151 Model XYZ,Amazfit,3166,3727,15.1,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Noise Smartwatch 152 Model XYZ,Noise,17419,19554,10.9,4.0,9891,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+OnePlus Smartwatch 153 Model XYZ,OnePlus,14090,18615,24.3,3.5,14517,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 154 Model XYZ,Realme,14016,17587,20.3,4.5,49274,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 155 Model XYZ,boAt,17345,21585,19.6,3.8,44112,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+OnePlus Smartwatch 156 Model XYZ,OnePlus,1906,6073,68.6,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Realme Smartwatch 157 Model XYZ,Realme,12701,16796,24.4,4.5,25539,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 158 Model XYZ,OnePlus,7715,11352,32.0,4.1,20262,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 159 Model XYZ,Realme,3270,7872,58.5,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+Amazfit Smartwatch 160 Model XYZ,Amazfit,19619,23522,16.6,4.4,42174,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 161 Model XYZ,Samsung,4780,9218,48.1,3.8,31756,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+Realme Smartwatch 162 Model XYZ,Realme,2476,3649,32.1,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Amazfit Smartwatch 163 Model XYZ,Amazfit,11471,13814,17.0,4.4,37892,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 164 Model XYZ,Samsung,3271,5279,38.0,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+OnePlus Smartwatch 165 Model XYZ,OnePlus,17764,19280,7.9,4.8,1509,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 166 Model XYZ,Fire-Boltt,6763,8296,18.5,3.7,13192,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 167 Model XYZ,Noise,9328,11690,20.2,4.2,25570,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Amazfit Smartwatch 168 Model XYZ,Amazfit,7341,9563,23.2,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Amazfit Smartwatch 169 Model XYZ,Amazfit,14637,15425,5.1,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 170 Model XYZ,Fire-Boltt,17246,21869,21.1,4.1,3833,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 171 Model XYZ,Amazfit,13180,15711,16.1,4.3,19057,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 172 Model XYZ,Amazfit,16489,19907,17.2,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 173 Model XYZ,Amazfit,12810,14249,10.1,3.6,45691,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 174 Model XYZ,Samsung,17094,19187,10.9,4.2,12261,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 175 Model XYZ,Realme,7842,8474,7.5,4.6,7860,"Smart Notifications, Music Control, Fitness Tracking",Premium
+OnePlus Smartwatch 176 Model XYZ,OnePlus,7394,9262,20.2,4.3,43535,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Noise Smartwatch 177 Model XYZ,Noise,19270,24052,19.9,4.7,22478,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+OnePlus Smartwatch 178 Model XYZ,OnePlus,2990,4165,28.2,4.1,37561,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+Apple Smartwatch 179 Model XYZ,Apple,8347,9783,14.7,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Amazfit Smartwatch 180 Model XYZ,Amazfit,2152,4344,50.5,3.7,39328,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+OnePlus Smartwatch 181 Model XYZ,OnePlus,14219,15490,8.2,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 182 Model XYZ,Samsung,2653,5142,48.4,3.8,33580,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Apple Smartwatch 183 Model XYZ,Apple,16886,20187,16.4,3.6,29592,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 184 Model XYZ,Samsung,9834,12926,23.9,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Apple Smartwatch 185 Model XYZ,Apple,7970,9295,14.3,4.6,13742,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 186 Model XYZ,Samsung,14135,15918,11.2,4.1,43952,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 187 Model XYZ,boAt,9419,10795,12.7,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Fire-Boltt Smartwatch 188 Model XYZ,Fire-Boltt,3906,4494,13.1,3.6,2979,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Fire-Boltt Smartwatch 189 Model XYZ,Fire-Boltt,3651,7602,52.0,4.6,43255,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+Amazfit Smartwatch 190 Model XYZ,Amazfit,7526,9114,17.4,4.6,13843,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 191 Model XYZ,Samsung,18833,21956,14.2,3.8,2533,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Apple Smartwatch 192 Model XYZ,Apple,3872,5184,25.3,4.0,4317,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Noise Smartwatch 193 Model XYZ,Noise,3163,3915,19.2,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Samsung Smartwatch 194 Model XYZ,Samsung,3422,3455,1.0,4.6,26020,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+Apple Smartwatch 195 Model XYZ,Apple,12100,16972,28.7,3.7,32672,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 196 Model XYZ,Samsung,5872,6208,5.4,4.6,37113,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Samsung Smartwatch 197 Model XYZ,Samsung,19010,21305,10.8,3.8,22251,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 198 Model XYZ,Fire-Boltt,10014,11608,13.7,3.8,32635,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 199 Model XYZ,Samsung,6512,8268,21.2,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Noise Smartwatch 200 Model XYZ,Noise,8840,13537,34.7,4.1,8030,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Fire-Boltt Smartwatch 201 Model XYZ,Fire-Boltt,8015,12169,34.1,3.5,9742,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Apple Smartwatch 202 Model XYZ,Apple,7971,12449,36.0,4.7,30071,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Noise Smartwatch 203 Model XYZ,Noise,10306,12630,18.4,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 204 Model XYZ,Fire-Boltt,15934,16361,2.6,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 205 Model XYZ,Apple,9129,10676,14.5,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Realme Smartwatch 206 Model XYZ,Realme,14247,18772,24.1,4.4,44337,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+OnePlus Smartwatch 207 Model XYZ,OnePlus,18647,22950,18.7,4.7,14466,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 208 Model XYZ,Amazfit,9460,12921,26.8,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 209 Model XYZ,Samsung,18462,20340,9.2,4.4,2649,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 210 Model XYZ,Noise,4745,5074,6.5,4.7,19037,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+Noise Smartwatch 211 Model XYZ,Noise,7508,9533,21.2,3.5,12532,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 212 Model XYZ,Apple,2838,3627,21.8,3.9,3533,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Samsung Smartwatch 213 Model XYZ,Samsung,2203,5518,60.1,3.8,42099,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Samsung Smartwatch 214 Model XYZ,Samsung,11411,16028,28.8,3.6,4778,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 215 Model XYZ,Apple,16425,18287,10.2,4.1,12408,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Apple Smartwatch 216 Model XYZ,Apple,18599,20012,7.1,3.8,33060,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 217 Model XYZ,Realme,11693,13603,14.0,3.7,40058,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 218 Model XYZ,Amazfit,5793,8896,34.9,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 219 Model XYZ,Samsung,3666,7525,51.3,4.0,13538,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+boAt Smartwatch 220 Model XYZ,boAt,10642,11768,9.6,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+OnePlus Smartwatch 221 Model XYZ,OnePlus,13158,14650,10.2,3.6,36472,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Samsung Smartwatch 222 Model XYZ,Samsung,14454,16957,14.8,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 223 Model XYZ,Amazfit,4324,6006,28.0,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+Samsung Smartwatch 224 Model XYZ,Samsung,19999,24582,18.6,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 225 Model XYZ,Apple,10843,15085,28.1,4.2,18558,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Realme Smartwatch 226 Model XYZ,Realme,3922,5652,30.6,4.6,37452,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+OnePlus Smartwatch 227 Model XYZ,OnePlus,15950,17568,9.2,3.9,16345,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 228 Model XYZ,boAt,2961,3025,2.1,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Noise Smartwatch 229 Model XYZ,Noise,15441,20245,23.7,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 230 Model XYZ,Realme,11205,15914,29.6,4.0,17511,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 231 Model XYZ,Amazfit,14485,14797,2.1,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 232 Model XYZ,Apple,5739,9526,39.8,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Apple Smartwatch 233 Model XYZ,Apple,8253,9992,17.4,4.7,6663,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+boAt Smartwatch 234 Model XYZ,boAt,6267,9325,32.8,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Amazfit Smartwatch 235 Model XYZ,Amazfit,5542,10486,47.1,3.9,12293,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Fire-Boltt Smartwatch 236 Model XYZ,Fire-Boltt,18915,19243,1.7,3.6,7299,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 237 Model XYZ,OnePlus,18975,21326,11.0,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 238 Model XYZ,Apple,5870,7809,24.8,4.6,36272,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Apple Smartwatch 239 Model XYZ,Apple,15560,19600,20.6,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 240 Model XYZ,Fire-Boltt,16377,19100,14.3,4.7,37481,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+boAt Smartwatch 241 Model XYZ,boAt,19460,23480,17.1,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 242 Model XYZ,Noise,6627,8253,19.7,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+OnePlus Smartwatch 243 Model XYZ,OnePlus,1026,2471,58.5,4.2,42729,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Budget
+Amazfit Smartwatch 244 Model XYZ,Amazfit,2325,2402,3.2,4.4,3340,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+boAt Smartwatch 245 Model XYZ,boAt,10258,11649,11.9,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 246 Model XYZ,Noise,14154,16967,16.6,4.7,18747,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 247 Model XYZ,Samsung,5162,6979,26.0,4.2,34689,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+OnePlus Smartwatch 248 Model XYZ,OnePlus,9024,13640,33.8,3.9,21377,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Samsung Smartwatch 249 Model XYZ,Samsung,13864,16929,18.1,3.6,46873,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 250 Model XYZ,Fire-Boltt,1465,1831,20.0,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Budget
+Amazfit Smartwatch 251 Model XYZ,Amazfit,7069,11800,40.1,4.2,17901,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 252 Model XYZ,Apple,10676,12776,16.4,4.4,20549,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Noise Smartwatch 253 Model XYZ,Noise,15033,19503,22.9,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 254 Model XYZ,Realme,16711,19509,14.3,3.6,6369,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 255 Model XYZ,Amazfit,4649,6122,24.1,4.0,13395,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+OnePlus Smartwatch 256 Model XYZ,OnePlus,12830,16829,23.8,4.7,8690,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Noise Smartwatch 257 Model XYZ,Noise,6679,10548,36.7,4.2,4096,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 258 Model XYZ,Noise,4065,7186,43.4,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+OnePlus Smartwatch 259 Model XYZ,OnePlus,17416,19410,10.3,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Apple Smartwatch 260 Model XYZ,Apple,15005,19978,24.9,4.2,37703,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 261 Model XYZ,boAt,5089,7329,30.6,4.6,33161,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Noise Smartwatch 262 Model XYZ,Noise,13288,17988,26.1,4.7,4315,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 263 Model XYZ,Fire-Boltt,5892,10300,42.8,4.2,12739,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+boAt Smartwatch 264 Model XYZ,boAt,10443,12671,17.6,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 265 Model XYZ,Amazfit,9307,13325,30.2,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Realme Smartwatch 266 Model XYZ,Realme,10836,13695,20.9,4.3,44896,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 267 Model XYZ,Apple,7473,11152,33.0,3.8,22905,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+OnePlus Smartwatch 268 Model XYZ,OnePlus,3835,6408,40.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Samsung Smartwatch 269 Model XYZ,Samsung,1346,4980,73.0,4.3,24665,"Smart Notifications, Music Control, Fitness Tracking",Budget
+OnePlus Smartwatch 270 Model XYZ,OnePlus,8189,11642,29.7,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Amazfit Smartwatch 271 Model XYZ,Amazfit,9942,11117,10.6,4.5,229,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Samsung Smartwatch 272 Model XYZ,Samsung,11150,13852,19.5,4.1,3398,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 273 Model XYZ,OnePlus,16537,18516,10.7,4.6,37233,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Samsung Smartwatch 274 Model XYZ,Samsung,11431,15928,28.2,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 275 Model XYZ,boAt,9767,14616,33.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Apple Smartwatch 276 Model XYZ,Apple,18560,20692,10.3,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Noise Smartwatch 277 Model XYZ,Noise,15676,17232,9.0,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+OnePlus Smartwatch 278 Model XYZ,OnePlus,11163,16144,30.9,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Apple Smartwatch 279 Model XYZ,Apple,6306,7777,18.9,4.8,3037,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Realme Smartwatch 280 Model XYZ,Realme,2355,5176,54.5,3.7,2483,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Noise Smartwatch 281 Model XYZ,Noise,18660,22338,16.5,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+boAt Smartwatch 282 Model XYZ,boAt,15796,16465,4.1,4.7,8028,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 283 Model XYZ,Apple,5352,7697,30.5,3.8,22145,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Realme Smartwatch 284 Model XYZ,Realme,6733,9292,27.5,3.8,16354,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+OnePlus Smartwatch 285 Model XYZ,OnePlus,4343,6571,33.9,3.6,40018,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Apple Smartwatch 286 Model XYZ,Apple,15574,20274,23.2,3.9,7536,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Noise Smartwatch 287 Model XYZ,Noise,15059,15983,5.8,4.3,28195,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+OnePlus Smartwatch 288 Model XYZ,OnePlus,11394,12102,5.9,4.6,38462,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+OnePlus Smartwatch 289 Model XYZ,OnePlus,10502,14811,29.1,3.8,18118,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Apple Smartwatch 290 Model XYZ,Apple,4970,8383,40.7,4.6,20341,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Realme Smartwatch 291 Model XYZ,Realme,13268,16791,21.0,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+OnePlus Smartwatch 292 Model XYZ,OnePlus,12892,16471,21.7,3.5,28343,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 293 Model XYZ,Noise,14422,15683,8.0,4.0,2333,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 294 Model XYZ,Amazfit,4911,8092,39.3,4.5,28029,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Fire-Boltt Smartwatch 295 Model XYZ,Fire-Boltt,14873,16485,9.8,3.6,9647,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 296 Model XYZ,Noise,6483,9242,29.9,3.7,18420,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Fire-Boltt Smartwatch 297 Model XYZ,Fire-Boltt,18725,21656,13.5,3.7,48684,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Noise Smartwatch 298 Model XYZ,Noise,19381,23723,18.3,4.2,26592,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+OnePlus Smartwatch 299 Model XYZ,OnePlus,1055,5101,79.3,4.6,30128,"Health Monitoring, Sports Modes, IP68 Waterproof",Budget
+boAt Smartwatch 300 Model XYZ,boAt,10596,13443,21.2,3.8,35284,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 301 Model XYZ,Samsung,10161,14392,29.4,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 302 Model XYZ,Noise,1206,1424,15.3,3.9,34972,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Budget
+Realme Smartwatch 303 Model XYZ,Realme,12249,16419,25.4,4.2,4352,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 304 Model XYZ,Amazfit,5480,5942,7.8,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Noise Smartwatch 305 Model XYZ,Noise,19243,19439,1.0,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 306 Model XYZ,Fire-Boltt,19813,23613,16.1,3.9,46852,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 307 Model XYZ,Amazfit,2513,2558,1.8,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Amazfit Smartwatch 308 Model XYZ,Amazfit,5896,10761,45.2,4.4,8558,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 309 Model XYZ,Noise,7825,11421,31.5,3.9,109,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Samsung Smartwatch 310 Model XYZ,Samsung,16666,20139,17.2,4.1,32495,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 311 Model XYZ,Noise,14432,18828,23.3,4.1,16049,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 312 Model XYZ,boAt,15503,15712,1.3,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 313 Model XYZ,Samsung,18567,19847,6.4,4.4,42404,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 314 Model XYZ,Realme,2437,3420,28.7,4.8,21931,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Apple Smartwatch 315 Model XYZ,Apple,12340,13619,9.4,3.8,37563,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 316 Model XYZ,OnePlus,15336,17760,13.6,4.5,27404,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 317 Model XYZ,Noise,15867,18088,12.3,3.6,47144,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Fire-Boltt Smartwatch 318 Model XYZ,Fire-Boltt,16835,20992,19.8,3.7,26056,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 319 Model XYZ,boAt,18153,20078,9.6,4.1,5014,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 320 Model XYZ,Fire-Boltt,15310,17500,12.5,4.5,24997,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 321 Model XYZ,Realme,1903,2096,9.2,3.9,17977,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Noise Smartwatch 322 Model XYZ,Noise,19889,24407,18.5,4.0,30283,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Noise Smartwatch 323 Model XYZ,Noise,6152,11139,44.8,4.5,35799,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Apple Smartwatch 324 Model XYZ,Apple,10930,11520,5.1,4.5,33729,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 325 Model XYZ,boAt,2250,6200,63.7,3.8,49085,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+boAt Smartwatch 326 Model XYZ,boAt,10131,10718,5.5,3.9,12887,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 327 Model XYZ,Fire-Boltt,8542,11918,28.3,4.6,21427,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 328 Model XYZ,Realme,2727,6807,59.9,4.7,25456,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Noise Smartwatch 329 Model XYZ,Noise,19819,20823,4.8,3.5,16570,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+boAt Smartwatch 330 Model XYZ,boAt,2695,4081,34.0,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+OnePlus Smartwatch 331 Model XYZ,OnePlus,9048,13959,35.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Realme Smartwatch 332 Model XYZ,Realme,17051,17578,3.0,4.0,7174,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+OnePlus Smartwatch 333 Model XYZ,OnePlus,17160,18721,8.3,3.5,46459,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 334 Model XYZ,Fire-Boltt,9391,11048,15.0,3.6,14211,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Noise Smartwatch 335 Model XYZ,Noise,17275,21525,19.7,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 336 Model XYZ,Amazfit,1035,2575,59.8,4.3,10683,"Health Monitoring, Sports Modes, IP68 Waterproof",Budget
+OnePlus Smartwatch 337 Model XYZ,OnePlus,2049,3076,33.4,4.3,28722,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+OnePlus Smartwatch 338 Model XYZ,OnePlus,1634,2472,33.9,4.2,43729,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Apple Smartwatch 339 Model XYZ,Apple,19710,21425,8.0,3.7,40949,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 340 Model XYZ,Fire-Boltt,4890,8731,44.0,4.0,1138,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Apple Smartwatch 341 Model XYZ,Apple,4615,5614,17.8,4.2,23086,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Noise Smartwatch 342 Model XYZ,Noise,17179,20304,15.4,3.6,6416,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 343 Model XYZ,Fire-Boltt,9131,12931,29.4,3.8,44170,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Samsung Smartwatch 344 Model XYZ,Samsung,11405,13025,12.4,4.1,47637,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 345 Model XYZ,Apple,6942,11441,39.3,4.6,15137,"Smart Notifications, Music Control, Fitness Tracking",Premium
+OnePlus Smartwatch 346 Model XYZ,OnePlus,1950,2060,5.3,4.1,31435,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Affordable
+Amazfit Smartwatch 347 Model XYZ,Amazfit,10442,12626,17.3,4.7,33195,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 348 Model XYZ,Noise,6871,11076,38.0,4.8,9623,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Apple Smartwatch 349 Model XYZ,Apple,19401,19603,1.0,3.8,13730,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 350 Model XYZ,Samsung,6266,6994,10.4,3.5,5060,"Smart Notifications, Music Control, Fitness Tracking",Premium
+OnePlus Smartwatch 351 Model XYZ,OnePlus,4256,6447,34.0,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+Apple Smartwatch 352 Model XYZ,Apple,16979,21866,22.3,4.3,30553,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 353 Model XYZ,Noise,18993,20363,6.7,4.7,11398,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+OnePlus Smartwatch 354 Model XYZ,OnePlus,19766,22602,12.5,4.6,43103,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Realme Smartwatch 355 Model XYZ,Realme,9318,11896,21.7,4.4,2839,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+boAt Smartwatch 356 Model XYZ,boAt,14745,16227,9.1,4.7,49309,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 357 Model XYZ,Realme,15008,15400,2.5,4.8,10974,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 358 Model XYZ,Fire-Boltt,6277,6857,8.5,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Samsung Smartwatch 359 Model XYZ,Samsung,18983,20886,9.1,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+boAt Smartwatch 360 Model XYZ,boAt,10111,11242,10.1,4.7,25663,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 361 Model XYZ,Realme,1842,6114,69.9,4.0,45610,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Fire-Boltt Smartwatch 362 Model XYZ,Fire-Boltt,8340,11387,26.8,4.6,30712,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+boAt Smartwatch 363 Model XYZ,boAt,9603,13244,27.5,3.5,11174,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+OnePlus Smartwatch 364 Model XYZ,OnePlus,1360,6107,77.7,4.2,23239,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Budget
+boAt Smartwatch 365 Model XYZ,boAt,18655,19082,2.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 366 Model XYZ,Apple,6691,10888,38.5,4.7,29018,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 367 Model XYZ,Realme,15784,17630,10.5,4.7,4640,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 368 Model XYZ,Amazfit,17574,18644,5.7,4.5,24047,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Noise Smartwatch 369 Model XYZ,Noise,7030,9469,25.8,3.5,6958,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Apple Smartwatch 370 Model XYZ,Apple,8015,11059,27.5,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 371 Model XYZ,Noise,14579,19235,24.2,4.7,28625,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Apple Smartwatch 372 Model XYZ,Apple,14553,14889,2.3,3.9,7423,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 373 Model XYZ,Fire-Boltt,10341,13946,25.8,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+OnePlus Smartwatch 374 Model XYZ,OnePlus,10257,14842,30.9,3.5,1693,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 375 Model XYZ,Fire-Boltt,13076,15995,18.2,4.1,21697,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 376 Model XYZ,Samsung,3735,7554,50.6,3.8,7873,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+boAt Smartwatch 377 Model XYZ,boAt,9451,12138,22.1,4.1,19437,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Apple Smartwatch 378 Model XYZ,Apple,16086,17178,6.4,3.7,875,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 379 Model XYZ,Apple,9053,12263,26.2,4.6,21523,"Smart Notifications, Music Control, Fitness Tracking",Premium
+boAt Smartwatch 380 Model XYZ,boAt,9980,12941,22.9,4.1,39219,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Realme Smartwatch 381 Model XYZ,Realme,5419,5861,7.5,4.1,2957,"Smart Notifications, Music Control, Fitness Tracking",Premium
+boAt Smartwatch 382 Model XYZ,boAt,16008,18903,15.3,3.5,20628,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 383 Model XYZ,Fire-Boltt,13899,18053,23.0,4.6,16360,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 384 Model XYZ,Noise,6890,10530,34.6,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Amazfit Smartwatch 385 Model XYZ,Amazfit,16706,17961,7.0,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 386 Model XYZ,Amazfit,3449,4750,27.4,3.5,20484,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Apple Smartwatch 387 Model XYZ,Apple,12010,14124,15.0,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Amazfit Smartwatch 388 Model XYZ,Amazfit,5456,7129,23.5,4.6,49152,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+boAt Smartwatch 389 Model XYZ,boAt,16957,18125,6.4,4.7,34267,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 390 Model XYZ,Samsung,10283,14648,29.8,4.6,40181,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 391 Model XYZ,Realme,9521,13463,29.3,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+OnePlus Smartwatch 392 Model XYZ,OnePlus,6056,8634,29.9,4.6,29412,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Samsung Smartwatch 393 Model XYZ,Samsung,3876,7433,47.9,4.7,6666,"GPS, Heart Rate Monitor, Multiple Watch Faces",Mid-range
+Apple Smartwatch 394 Model XYZ,Apple,12255,17057,28.2,4.8,24711,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 395 Model XYZ,Apple,8761,12250,28.5,4.2,5774,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 396 Model XYZ,Apple,13594,15174,10.4,3.8,15192,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Apple Smartwatch 397 Model XYZ,Apple,14909,18853,20.9,4.1,41473,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 398 Model XYZ,Realme,18620,20797,10.5,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+OnePlus Smartwatch 399 Model XYZ,OnePlus,9956,10959,9.2,4.6,49431,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Apple Smartwatch 400 Model XYZ,Apple,12081,14896,18.9,4.1,43120,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 401 Model XYZ,Fire-Boltt,16224,18143,10.6,4.0,8093,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+OnePlus Smartwatch 402 Model XYZ,OnePlus,10816,12772,15.3,4.5,1443,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Realme Smartwatch 403 Model XYZ,Realme,14574,15238,4.4,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 404 Model XYZ,Samsung,10209,14957,31.7,3.9,43828,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+boAt Smartwatch 405 Model XYZ,boAt,14618,18173,19.6,4.3,26945,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 406 Model XYZ,Apple,11215,15906,29.5,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 407 Model XYZ,Apple,19723,20836,5.3,3.9,10378,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 408 Model XYZ,Apple,9746,10633,8.3,4.7,28492,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 409 Model XYZ,Realme,18377,23206,20.8,4.3,36940,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 410 Model XYZ,boAt,11798,14663,19.5,4.3,33514,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+OnePlus Smartwatch 411 Model XYZ,OnePlus,15238,17821,14.5,3.9,17101,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 412 Model XYZ,Noise,10532,12374,14.9,4.8,26989,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+boAt Smartwatch 413 Model XYZ,boAt,17072,22039,22.5,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Noise Smartwatch 414 Model XYZ,Noise,11446,14331,20.1,4.7,46096,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 415 Model XYZ,Fire-Boltt,3740,4577,18.3,4.3,37452,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+OnePlus Smartwatch 416 Model XYZ,OnePlus,8611,11025,21.9,4.4,16704,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Samsung Smartwatch 417 Model XYZ,Samsung,13396,17915,25.2,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+boAt Smartwatch 418 Model XYZ,boAt,9830,13863,29.1,4.8,6793,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Samsung Smartwatch 419 Model XYZ,Samsung,19356,19371,0.1,4.3,7256,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 420 Model XYZ,Amazfit,19064,23558,19.1,4.5,37499,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+OnePlus Smartwatch 421 Model XYZ,OnePlus,18215,19401,6.1,3.7,46262,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Apple Smartwatch 422 Model XYZ,Apple,9152,11539,20.7,3.8,17374,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Fire-Boltt Smartwatch 423 Model XYZ,Fire-Boltt,14804,16970,12.8,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 424 Model XYZ,Apple,16601,17326,4.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Fire-Boltt Smartwatch 425 Model XYZ,Fire-Boltt,2054,6384,67.8,3.9,3574,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Noise Smartwatch 426 Model XYZ,Noise,2585,7018,63.2,4.8,2172,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Noise Smartwatch 427 Model XYZ,Noise,5349,9744,45.1,3.8,11396,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+boAt Smartwatch 428 Model XYZ,boAt,2100,2720,22.8,4.2,30141,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Apple Smartwatch 429 Model XYZ,Apple,14623,16823,13.1,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Fire-Boltt Smartwatch 430 Model XYZ,Fire-Boltt,8652,12239,29.3,4.5,8174,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Samsung Smartwatch 431 Model XYZ,Samsung,3193,6032,47.1,3.8,22511,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+Realme Smartwatch 432 Model XYZ,Realme,9397,13191,28.8,3.7,23329,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+boAt Smartwatch 433 Model XYZ,boAt,19587,20570,4.8,4.7,37204,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 434 Model XYZ,Realme,9975,11740,15.0,3.9,7684,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 435 Model XYZ,Apple,18104,22924,21.0,4.5,43564,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 436 Model XYZ,Realme,16812,17138,1.9,3.5,3118,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Samsung Smartwatch 437 Model XYZ,Samsung,16870,20643,18.3,3.9,49752,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Realme Smartwatch 438 Model XYZ,Realme,15043,18467,18.5,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 439 Model XYZ,Amazfit,18494,18825,1.8,3.9,39832,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 440 Model XYZ,Amazfit,18492,20209,8.5,4.4,19699,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 441 Model XYZ,Fire-Boltt,7463,8102,7.9,4.5,43805,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Amazfit Smartwatch 442 Model XYZ,Amazfit,1051,1592,34.0,4.1,25391,"GPS, Heart Rate Monitor, Multiple Watch Faces",Budget
+Apple Smartwatch 443 Model XYZ,Apple,11285,13799,18.2,4.5,8169,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Amazfit Smartwatch 444 Model XYZ,Amazfit,8333,11882,29.9,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Premium
+OnePlus Smartwatch 445 Model XYZ,OnePlus,5921,7367,19.6,3.9,35400,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Noise Smartwatch 446 Model XYZ,Noise,9681,14675,34.0,4.1,11839,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Noise Smartwatch 447 Model XYZ,Noise,2480,7006,64.6,4.7,34661,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Fire-Boltt Smartwatch 448 Model XYZ,Fire-Boltt,16877,20393,17.2,4.5,42459,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 449 Model XYZ,Apple,15158,15780,3.9,3.5,32133,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 450 Model XYZ,Amazfit,17282,21117,18.2,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Amazfit Smartwatch 451 Model XYZ,Amazfit,1690,5463,69.1,4.6,28350,"GPS, Heart Rate Monitor, Multiple Watch Faces",Affordable
+Amazfit Smartwatch 452 Model XYZ,Amazfit,11591,15602,25.7,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 453 Model XYZ,Realme,2190,2768,20.9,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Amazfit Smartwatch 454 Model XYZ,Amazfit,1392,4329,67.8,3.6,40309,"GPS, Heart Rate Monitor, Multiple Watch Faces",Budget
+boAt Smartwatch 455 Model XYZ,boAt,19814,23619,16.1,3.7,48099,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Apple Smartwatch 456 Model XYZ,Apple,1872,6753,72.3,4.2,23608,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+OnePlus Smartwatch 457 Model XYZ,OnePlus,11721,14481,19.1,4.1,19374,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Samsung Smartwatch 458 Model XYZ,Samsung,7902,11636,32.1,4.3,24979,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Fire-Boltt Smartwatch 459 Model XYZ,Fire-Boltt,13356,18004,25.8,4.7,22489,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 460 Model XYZ,Realme,2584,5918,56.3,4.5,10791,"Health Monitoring, Sports Modes, IP68 Waterproof",Affordable
+Amazfit Smartwatch 461 Model XYZ,Amazfit,4564,7162,36.3,3.9,31216,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+Realme Smartwatch 462 Model XYZ,Realme,19561,21747,10.1,4.1,37213,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Amazfit Smartwatch 463 Model XYZ,Amazfit,8851,9646,8.2,3.7,41058,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Apple Smartwatch 464 Model XYZ,Apple,15632,18406,15.1,4.2,36186,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Realme Smartwatch 465 Model XYZ,Realme,15208,18753,18.9,3.8,6103,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Amazfit Smartwatch 466 Model XYZ,Amazfit,1445,5521,73.8,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Budget
+Amazfit Smartwatch 467 Model XYZ,Amazfit,12717,16041,20.7,4.5,41155,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+boAt Smartwatch 468 Model XYZ,boAt,3554,4055,12.4,4.8,10195,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+boAt Smartwatch 469 Model XYZ,boAt,8757,12876,32.0,3.6,2072,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Fire-Boltt Smartwatch 470 Model XYZ,Fire-Boltt,18434,22978,19.8,4.7,18454,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 471 Model XYZ,Realme,14972,19423,22.9,4.0,18957,"GPS, Heart Rate Monitor, Multiple Watch Faces",Luxury
+Noise Smartwatch 472 Model XYZ,Noise,15839,17511,9.5,4.7,42803,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Realme Smartwatch 473 Model XYZ,Realme,4996,6103,18.1,4.5,48075,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+Amazfit Smartwatch 474 Model XYZ,Amazfit,5491,8723,37.1,0.0,0,"Health Monitoring, Sports Modes, IP68 Waterproof",Premium
+Noise Smartwatch 475 Model XYZ,Noise,4206,6769,37.9,0.0,0,"Smart Notifications, Music Control, Fitness Tracking",Mid-range
+boAt Smartwatch 476 Model XYZ,boAt,9596,14033,31.6,0.0,0,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Noise Smartwatch 477 Model XYZ,Noise,19989,23147,13.6,3.8,22162,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Realme Smartwatch 478 Model XYZ,Realme,19326,19759,2.2,3.8,3713,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+OnePlus Smartwatch 479 Model XYZ,OnePlus,2160,2319,6.9,0.0,0,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Affordable
+Amazfit Smartwatch 480 Model XYZ,Amazfit,5068,5588,9.3,0.0,0,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Noise Smartwatch 481 Model XYZ,Noise,2279,6545,65.2,4.7,41718,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Realme Smartwatch 482 Model XYZ,Realme,4413,5423,18.6,4.5,28667,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Mid-range
+OnePlus Smartwatch 483 Model XYZ,OnePlus,14069,18152,22.5,4.7,49321,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
+Fire-Boltt Smartwatch 484 Model XYZ,Fire-Boltt,9417,12562,25.0,3.6,31436,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Samsung Smartwatch 485 Model XYZ,Samsung,19292,21522,10.4,4.4,24666,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Noise Smartwatch 486 Model XYZ,Noise,7511,8822,14.9,3.5,44474,"Smart Notifications, Music Control, Fitness Tracking",Premium
+Realme Smartwatch 487 Model XYZ,Realme,10099,13338,24.3,4.7,26630,"Smart Notifications, Music Control, Fitness Tracking",Luxury
+Apple Smartwatch 488 Model XYZ,Apple,16839,19113,11.9,4.1,49123,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Samsung Smartwatch 489 Model XYZ,Samsung,19545,21726,10.0,3.6,24337,"Health Monitoring, Sports Modes, IP68 Waterproof",Luxury
+Fire-Boltt Smartwatch 490 Model XYZ,Fire-Boltt,4983,7765,35.8,4.5,36722,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Mid-range
+boAt Smartwatch 491 Model XYZ,boAt,16684,20865,20.0,4.5,18172,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 492 Model XYZ,Fire-Boltt,1717,6167,72.2,4.1,27509,"Smart Notifications, Music Control, Fitness Tracking",Affordable
+Amazfit Smartwatch 493 Model XYZ,Amazfit,8395,9114,7.9,4.7,31995,"GPS, Heart Rate Monitor, Multiple Watch Faces",Premium
+Samsung Smartwatch 494 Model XYZ,Samsung,3007,3552,15.3,4.5,9590,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+OnePlus Smartwatch 495 Model XYZ,OnePlus,4006,4491,10.8,3.8,37165,"Health Monitoring, Sports Modes, IP68 Waterproof",Mid-range
+OnePlus Smartwatch 496 Model XYZ,OnePlus,8407,13154,36.1,4.6,14738,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Apple Smartwatch 497 Model XYZ,Apple,7840,11871,34.0,4.0,48080,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Premium
+Samsung Smartwatch 498 Model XYZ,Samsung,5313,10147,47.6,4.2,4765,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Premium
+Realme Smartwatch 499 Model XYZ,Realme,10734,12007,10.6,4.6,1681,"AMOLED Display, SpO2 Monitor, Sleep Tracking",Luxury
+Fire-Boltt Smartwatch 500 Model XYZ,Fire-Boltt,19129,19344,1.1,4.6,39507,"Bluetooth Calling, 1.39"" Display, 7 Days Battery",Luxury
